@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.addClass($1)${2:;}$0</string>
+<string>.not($1)${2:;}$0</string>
 <key>name</key>
-<string>addClass</string>
+<string>not</string>
 <key>scope</key>
 <string>source.js</string>
 <key>tabTrigger</key>
-<string>ac</string>
+<string>not</string>
 <key>uuid</key>
-<string>70f3d222-6b70-4e34-b911-26d25ba8b3bf</string>
+<string>3a954f2b-d84c-4e05-a2f4-6b563fc86a26</string>
 </dict>
 </plist>

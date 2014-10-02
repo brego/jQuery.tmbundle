@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.addClass($1)${2:;}$0</string>
+<string>.nextUntil($1)${2:;}$0</string>
 <key>name</key>
-<string>addClass</string>
+<string>nextUntil</string>
 <key>scope</key>
 <string>source.js</string>
 <key>tabTrigger</key>
-<string>ac</string>
+<string>nu</string>
 <key>uuid</key>
-<string>70f3d222-6b70-4e34-b911-26d25ba8b3bf</string>
+<string>21b5d8f1-eaa7-4ec9-9e3b-200db3d3ba8b</string>
 </dict>
 </plist>

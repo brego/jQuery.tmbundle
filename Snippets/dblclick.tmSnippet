@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.addClass($1)${2:;}$0</string>
+<string>.dblclick($1)${2:;}$0</string>
 <key>name</key>
-<string>addClass</string>
+<string>dblclick</string>
 <key>scope</key>
 <string>source.js</string>
 <key>tabTrigger</key>
-<string>ac</string>
+<string>dbc</string>
 <key>uuid</key>
-<string>70f3d222-6b70-4e34-b911-26d25ba8b3bf</string>
+<string>a339349f-f289-4a2c-afbe-40b7c2e0175c</string>
 </dict>
 </plist>
