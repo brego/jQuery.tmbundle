@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.pushStack($1)${2:;}$0</string>
+<string>pushStack($1)${2:;}$0</string>
 <key>name</key>
 <string>pushStack</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>ps</string>
 <key>uuid</key>
-<string>cd2a0465-8e31-4394-890a-650885bc5b2e</string>
+<string>34bfa5a5-5974-4f2e-9051-e44c91ad3d1a</string>
 </dict>
 </plist>

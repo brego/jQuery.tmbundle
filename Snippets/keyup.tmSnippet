@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.keyup($1)${2:;}$0</string>
+<string>keyup($1)${2:;}$0</string>
 <key>name</key>
 <string>keyup</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>ku</string>
 <key>uuid</key>
-<string>f64c75df-94f6-4040-8907-0db1ace996ff</string>
+<string>c4688b75-f73c-4a2b-a422-eb29a03e4553</string>
 </dict>
 </plist>

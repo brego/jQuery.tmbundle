@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.not($1)${2:;}$0</string>
+<string>not($1)${2:;}$0</string>
 <key>name</key>
 <string>not</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>not</string>
 <key>uuid</key>
-<string>3a954f2b-d84c-4e05-a2f4-6b563fc86a26</string>
+<string>fd113e27-6a02-4f83-ac13-561aea15bc15</string>
 </dict>
 </plist>

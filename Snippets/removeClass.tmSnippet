@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.removeClass($1)${2:;}$0</string>
+<string>removeClass($1)${2:;}$0</string>
 <key>name</key>
 <string>removeClass</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>rc</string>
 <key>uuid</key>
-<string>c8355abc-e371-4079-9348-7f3c344e1a4d</string>
+<string>e59756f0-4ec3-493d-b7d5-8618140bee87</string>
 </dict>
 </plist>

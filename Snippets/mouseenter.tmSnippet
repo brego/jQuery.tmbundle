@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.mouseenter($1)${2:;}$0</string>
+<string>mouseenter($1)${2:;}$0</string>
 <key>name</key>
 <string>mouseenter</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>me</string>
 <key>uuid</key>
-<string>de742705-2548-499a-95e8-7b32a54ad473</string>
+<string>1c47e4f5-0125-470f-93e9-01bd21371007</string>
 </dict>
 </plist>

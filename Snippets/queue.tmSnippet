@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.queue($1)${2:;}$0</string>
+<string>queue($1)${2:;}$0</string>
 <key>name</key>
 <string>queue</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>q</string>
 <key>uuid</key>
-<string>eaef2f4a-c16a-45a2-b487-2ca5d652d559</string>
+<string>3e3f819b-46a0-4d0e-b6fd-4943a464c1fb</string>
 </dict>
 </plist>

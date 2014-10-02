@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.promise($1)${2:;}$0</string>
+<string>promise($1)${2:;}$0</string>
 <key>name</key>
 <string>promise</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>p</string>
 <key>uuid</key>
-<string>b5a444dd-b8ba-403b-ae88-52453710b87b</string>
+<string>1cdf4da1-4f24-4359-8d89-0e60b129fb0c</string>
 </dict>
 </plist>

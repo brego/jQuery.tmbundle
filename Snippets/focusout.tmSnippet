@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.focusout($1)${2:;}$0</string>
+<string>focusout($1)${2:;}$0</string>
 <key>name</key>
 <string>focusout</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>fou</string>
 <key>uuid</key>
-<string>fc599cd1-e5fb-4224-833e-968707969b93</string>
+<string>c2e9075c-0657-4019-b253-b78ac8044d94</string>
 </dict>
 </plist>

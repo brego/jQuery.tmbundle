@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.toggleClass($1)${2:;}$0</string>
+<string>toggleClass($1)${2:;}$0</string>
 <key>name</key>
 <string>toggleClass</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>tgc</string>
 <key>uuid</key>
-<string>22d020a3-fc42-4370-a138-64bbbf650a71</string>
+<string>8156e2f5-65ed-47c4-86f8-53169234abaa</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.serializeArray($1)${2:;}$0</string>
+<string>serializeArray($1)${2:;}$0</string>
 <key>name</key>
 <string>serializeArray</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>sea</string>
 <key>uuid</key>
-<string>50c4292e-5cd1-4a5d-b42e-b84ef6d5c3dd</string>
+<string>6f285bf8-ac54-4a1b-862e-6a4258473eca</string>
 </dict>
 </plist>

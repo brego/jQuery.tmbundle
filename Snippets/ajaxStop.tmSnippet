@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.ajaxStop($1)${2:;}$0</string>
+<string>ajaxStop($1)${2:;}$0</string>
 <key>name</key>
 <string>ajaxStop</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>ajs</string>
 <key>uuid</key>
-<string>d365df02-067a-4439-a4c6-fae45b81632d</string>
+<string>560e1636-333f-4c70-9e6f-501573b9ab17</string>
 </dict>
 </plist>

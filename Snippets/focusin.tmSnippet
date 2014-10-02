@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.focusin($1)${2:;}$0</string>
+<string>focusin($1)${2:;}$0</string>
 <key>name</key>
 <string>focusin</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>foi</string>
 <key>uuid</key>
-<string>0a750222-a2a2-44f0-ad0d-b92839e4d16d</string>
+<string>36ff93da-7ba6-4f0a-b107-8bf503338c85</string>
 </dict>
 </plist>

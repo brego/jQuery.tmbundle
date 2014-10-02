@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.prepend($1)${2:;}$0</string>
+<string>prepend($1)${2:;}$0</string>
 <key>name</key>
 <string>prepend</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>p</string>
 <key>uuid</key>
-<string>28a00e2c-1d2e-48c9-8686-32b24eb71185</string>
+<string>ca95a807-5fc2-48f3-9903-10eae179955b</string>
 </dict>
 </plist>

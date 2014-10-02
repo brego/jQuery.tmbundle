@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.fadeToggle($1)${2:;}$0</string>
+<string>fadeToggle($1)${2:;}$0</string>
 <key>name</key>
 <string>fadeToggle</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>fatg</string>
 <key>uuid</key>
-<string>c9d19318-e528-4c5b-b31f-b9a5f738b2fd</string>
+<string>e655c52e-b9d5-4dd1-84bc-17620662d016</string>
 </dict>
 </plist>

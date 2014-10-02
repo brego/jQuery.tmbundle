@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.delegate($1)${2:;}$0</string>
+<string>delegate($1)${2:;}$0</string>
 <key>name</key>
 <string>delegate</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>de</string>
 <key>uuid</key>
-<string>ea2c0a94-c7f0-493e-a841-721dd5a874e4</string>
+<string>3fb15e71-a803-4f4d-8e89-534351efd440</string>
 </dict>
 </plist>

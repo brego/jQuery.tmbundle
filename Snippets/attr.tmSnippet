@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.attr($1)${2:;}$0</string>
+<string>attr($1)${2:;}$0</string>
 <key>name</key>
 <string>attr</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>at</string>
 <key>uuid</key>
-<string>a4503a32-a7a0-4040-b3f6-6ff36e0cbbf7</string>
+<string>1e34c684-6cc6-4468-a23e-952b450b8015</string>
 </dict>
 </plist>

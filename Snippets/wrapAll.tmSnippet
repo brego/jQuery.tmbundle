@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.wrapAll($1)${2:;}$0</string>
+<string>wrapAll($1)${2:;}$0</string>
 <key>name</key>
 <string>wrapAll</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>wa</string>
 <key>uuid</key>
-<string>f4cbac98-3067-4c19-8eb1-aaf03420cdd0</string>
+<string>e3846058-ea68-4ce8-a681-d5a1c473e4c5</string>
 </dict>
 </plist>

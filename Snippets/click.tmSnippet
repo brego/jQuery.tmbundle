@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.click($1)${2:;}$0</string>
+<string>click($1)${2:;}$0</string>
 <key>name</key>
 <string>click</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>c</string>
 <key>uuid</key>
-<string>bd9997eb-03e8-4297-87aa-ea1f2fa853c5</string>
+<string>9621c3ad-4095-4d31-b828-8655e6d222d1</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.dblclick($1)${2:;}$0</string>
+<string>dblclick($1)${2:;}$0</string>
 <key>name</key>
 <string>dblclick</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>dbc</string>
 <key>uuid</key>
-<string>a339349f-f289-4a2c-afbe-40b7c2e0175c</string>
+<string>40c93f8f-6720-41bf-95f6-a481d8eda96d</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.eq($1)${2:;}$0</string>
+<string>eq($1)${2:;}$0</string>
 <key>name</key>
 <string>eq</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>eq</string>
 <key>uuid</key>
-<string>db502749-aa56-4974-83eb-2ab968478a15</string>
+<string>855fb733-55e1-4f6d-b6f8-5c7fe01c153c</string>
 </dict>
 </plist>

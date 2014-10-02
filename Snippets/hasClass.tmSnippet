@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.hasClass($1)${2:;}$0</string>
+<string>hasClass($1)${2:;}$0</string>
 <key>name</key>
 <string>hasClass</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>hc</string>
 <key>uuid</key>
-<string>093b3098-3474-4daa-b91d-9abb8be50408</string>
+<string>1b6bdd14-00ab-4fd3-af9b-3e6004401e7e</string>
 </dict>
 </plist>

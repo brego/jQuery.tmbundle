@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.scroll($1)${2:;}$0</string>
+<string>scroll($1)${2:;}$0</string>
 <key>name</key>
 <string>scroll</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>sc</string>
 <key>uuid</key>
-<string>2dcba0ae-523b-4692-a3a0-61a28ef1e42a</string>
+<string>86320828-ce7d-4b70-8fbe-b4b33ef4ca2e</string>
 </dict>
 </plist>

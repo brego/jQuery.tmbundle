@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.mouseover($1)${2:;}$0</string>
+<string>mouseover($1)${2:;}$0</string>
 <key>name</key>
 <string>mouseover</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>mo</string>
 <key>uuid</key>
-<string>6b023163-0477-4379-a5c7-a8ae4e525787</string>
+<string>c1cd07d5-b3d1-4a79-b1c0-7405609b36a2</string>
 </dict>
 </plist>

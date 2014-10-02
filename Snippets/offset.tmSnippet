@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.offset($1)${2:;}$0</string>
+<string>offset($1)${2:;}$0</string>
 <key>name</key>
 <string>offset</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>o</string>
 <key>uuid</key>
-<string>8939a609-5691-44d0-8ac0-ea04a1762dbc</string>
+<string>88789799-6e2c-4270-9c09-3b7257f87d1c</string>
 </dict>
 </plist>

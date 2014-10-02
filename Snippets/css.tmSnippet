@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.css($1)${2:;}$0</string>
+<string>css($1)${2:;}$0</string>
 <key>name</key>
 <string>css</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>css</string>
 <key>uuid</key>
-<string>6ffd04a7-4af7-4728-89f2-353ce1244ffb</string>
+<string>0a7df810-ddb1-4d17-8b8b-efc3bd35e03c</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.toggle($1)${2:;}$0</string>
+<string>toggle($1)${2:;}$0</string>
 <key>name</key>
 <string>toggle</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>tg</string>
 <key>uuid</key>
-<string>7703e5a0-7d05-4c76-b7d1-b099834a5f92</string>
+<string>12bd630c-7d54-4e62-940e-df37f6fd8cbd</string>
 </dict>
 </plist>

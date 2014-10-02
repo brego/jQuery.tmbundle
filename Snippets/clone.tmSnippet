@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.clone($1)${2:;}$0</string>
+<string>clone($1)${2:;}$0</string>
 <key>name</key>
 <string>clone</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>cl</string>
 <key>uuid</key>
-<string>ebb9b3e6-15e5-4776-9684-a969f72952a6</string>
+<string>0e22841b-748d-4345-83e4-8ae2401b3405</string>
 </dict>
 </plist>

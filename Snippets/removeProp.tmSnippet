@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.removeProp($1)${2:;}$0</string>
+<string>removeProp($1)${2:;}$0</string>
 <key>name</key>
 <string>removeProp</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>rp</string>
 <key>uuid</key>
-<string>65496120-52df-464c-a625-4ff1e01528f6</string>
+<string>56309447-e615-41e2-8f98-a0b2dc204eef</string>
 </dict>
 </plist>

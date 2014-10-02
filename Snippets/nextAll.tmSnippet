@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.nextAll($1)${2:;}$0</string>
+<string>nextAll($1)${2:;}$0</string>
 <key>name</key>
 <string>nextAll</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>na</string>
 <key>uuid</key>
-<string>a2fcbd2d-cc64-4365-a234-6ac8ca89cce7</string>
+<string>f5d7a5ca-05a0-4e3c-88d6-e2c2854eb6ed</string>
 </dict>
 </plist>

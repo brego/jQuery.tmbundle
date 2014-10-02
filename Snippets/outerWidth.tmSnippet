@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.outerWidth($1)${2:;}$0</string>
+<string>outerWidth($1)${2:;}$0</string>
 <key>name</key>
 <string>outerWidth</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>ow</string>
 <key>uuid</key>
-<string>5bd836e0-438e-41da-b119-1d1d9ad56694</string>
+<string>0e26f6f6-fbb0-465d-a517-5c4730da796b</string>
 </dict>
 </plist>

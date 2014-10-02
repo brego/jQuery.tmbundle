@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.mousemove($1)${2:;}$0</string>
+<string>mousemove($1)${2:;}$0</string>
 <key>name</key>
 <string>mousemove</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>mm</string>
 <key>uuid</key>
-<string>a7787d07-fa66-4611-90db-cee1cff1a545</string>
+<string>4b595f90-30cb-47e0-8b9b-9000f17772de</string>
 </dict>
 </plist>

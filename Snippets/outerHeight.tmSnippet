@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.outerHeight($1)${2:;}$0</string>
+<string>outerHeight($1)${2:;}$0</string>
 <key>name</key>
 <string>outerHeight</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>oh</string>
 <key>uuid</key>
-<string>f26f78f5-33b4-47e4-945d-d4b0a31a9fd3</string>
+<string>d7f1d731-39ee-4dff-b569-31792aa483e7</string>
 </dict>
 </plist>

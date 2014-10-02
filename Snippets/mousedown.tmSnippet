@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.mousedown($1)${2:;}$0</string>
+<string>mousedown($1)${2:;}$0</string>
 <key>name</key>
 <string>mousedown</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>md</string>
 <key>uuid</key>
-<string>0093cb47-e465-43a0-bcc4-d633a2a8f7b0</string>
+<string>e22d84c7-984e-4107-8928-c7b578e696c8</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.fadeIn($1)${2:;}$0</string>
+<string>fadeIn($1)${2:;}$0</string>
 <key>name</key>
 <string>fadeIn</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>fai</string>
 <key>uuid</key>
-<string>baae0d16-275e-4efa-bbb7-167ed99c2c29</string>
+<string>37828e9c-5b5c-4d75-ae78-9c9cc5af1e09</string>
 </dict>
 </plist>

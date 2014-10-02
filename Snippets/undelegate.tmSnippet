@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.undelegate($1)${2:;}$0</string>
+<string>undelegate($1)${2:;}$0</string>
 <key>name</key>
 <string>undelegate</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>ud</string>
 <key>uuid</key>
-<string>b7da5876-96a8-4a12-977b-d9570765deab</string>
+<string>988b6bbc-08b6-4b29-9650-6785170386f1</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.width($1)${2:;}$0</string>
+<string>width($1)${2:;}$0</string>
 <key>name</key>
 <string>width</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>wi</string>
 <key>uuid</key>
-<string>2940fe76-c83c-46ef-84d8-9f4866fe6004</string>
+<string>28b322e7-bc68-446b-b8cb-51fe1ae5fd52</string>
 </dict>
 </plist>

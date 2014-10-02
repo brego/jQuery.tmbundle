@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.hover($1)${2:;}$0</string>
+<string>hover($1)${2:;}$0</string>
 <key>name</key>
 <string>hover</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>ho</string>
 <key>uuid</key>
-<string>cad9a68a-0176-4d87-a525-361d74253f0d</string>
+<string>94f5ffec-af5b-4e1b-9dcf-22e9defee44c</string>
 </dict>
 </plist>

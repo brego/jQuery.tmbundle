@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.replaceAll($1)${2:;}$0</string>
+<string>replaceAll($1)${2:;}$0</string>
 <key>name</key>
 <string>replaceAll</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>ra</string>
 <key>uuid</key>
-<string>97d8c135-fa73-46ab-8eb3-c273856f6654</string>
+<string>b503fc50-c142-48bb-832c-4777ee271f00</string>
 </dict>
 </plist>

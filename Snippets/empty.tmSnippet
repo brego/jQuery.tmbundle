@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.empty($1)${2:;}$0</string>
+<string>empty($1)${2:;}$0</string>
 <key>name</key>
 <string>empty</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>em</string>
 <key>uuid</key>
-<string>9c93e184-c374-4632-ac0b-f8c311d38d91</string>
+<string>724cfd1a-827e-44e1-8a68-0f2007521dfc</string>
 </dict>
 </plist>

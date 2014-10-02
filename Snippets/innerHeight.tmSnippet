@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.innerHeight($1)${2:;}$0</string>
+<string>innerHeight($1)${2:;}$0</string>
 <key>name</key>
 <string>innerHeight</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>ih</string>
 <key>uuid</key>
-<string>df1121da-12be-420b-8e41-d5d07e327a38</string>
+<string>8cbbdbd0-2afa-4573-be0a-a08cf6412f57</string>
 </dict>
 </plist>

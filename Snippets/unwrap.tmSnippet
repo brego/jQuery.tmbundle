@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.unwrap($1)${2:;}$0</string>
+<string>unwrap($1)${2:;}$0</string>
 <key>name</key>
 <string>unwrap</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>uw</string>
 <key>uuid</key>
-<string>274be6dd-d611-4ff1-b23e-d41ef155f4b2</string>
+<string>475e168b-f440-492f-9195-41826bb14752</string>
 </dict>
 </plist>

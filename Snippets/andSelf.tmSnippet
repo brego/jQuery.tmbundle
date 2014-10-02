@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.andSelf($1)${2:;}$0</string>
+<string>andSelf($1)${2:;}$0</string>
 <key>name</key>
 <string>andSelf</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>as</string>
 <key>uuid</key>
-<string>63a63dfa-a5e0-41c3-b942-df87fae373e4</string>
+<string>72099fe2-ea5e-4d1c-832c-02fd2bc53bf6</string>
 </dict>
 </plist>

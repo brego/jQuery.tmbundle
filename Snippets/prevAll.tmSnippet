@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.prevAll($1)${2:;}$0</string>
+<string>prevAll($1)${2:;}$0</string>
 <key>name</key>
 <string>prevAll</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>pa</string>
 <key>uuid</key>
-<string>dc3792aa-f2ef-4040-957f-4d311eebffbb</string>
+<string>152a001f-4391-476d-a10d-862d25d96d72</string>
 </dict>
 </plist>

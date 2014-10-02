@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.slideToggle($1)${2:;}$0</string>
+<string>slideToggle($1)${2:;}$0</string>
 <key>name</key>
 <string>slideToggle</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>stg</string>
 <key>uuid</key>
-<string>98c621cb-1720-4920-938d-36b0cfd3bcc9</string>
+<string>1cdf3955-f12d-45c1-ae35-c5603ea8a9c7</string>
 </dict>
 </plist>

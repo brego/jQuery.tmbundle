@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.serialize($1)${2:;}$0</string>
+<string>serialize($1)${2:;}$0</string>
 <key>name</key>
 <string>serialize</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>se</string>
 <key>uuid</key>
-<string>b83d0f0b-8259-47d9-8ad6-6ef532ded41f</string>
+<string>40a7fe5f-c578-4502-ab79-90fe05a9aae5</string>
 </dict>
 </plist>

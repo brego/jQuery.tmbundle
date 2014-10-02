@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.triggerHandler($1)${2:;}$0</string>
+<string>triggerHandler($1)${2:;}$0</string>
 <key>name</key>
 <string>triggerHandler</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>th</string>
 <key>uuid</key>
-<string>3e72606e-6232-4103-906e-51bfaa8a4d47</string>
+<string>30bf0532-1620-4dbb-a172-3a06b6856e91</string>
 </dict>
 </plist>

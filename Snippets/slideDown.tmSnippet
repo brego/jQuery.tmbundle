@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.slideDown($1)${2:;}$0</string>
+<string>slideDown($1)${2:;}$0</string>
 <key>name</key>
 <string>slideDown</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>sd</string>
 <key>uuid</key>
-<string>3b4dd1bb-69c7-4798-91ba-e3598b65f4c8</string>
+<string>34c3284b-24a2-4cf4-906f-86a51146a8a8</string>
 </dict>
 </plist>

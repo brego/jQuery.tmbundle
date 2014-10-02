@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.appendTo($1)${2:;}$0</string>
+<string>appendTo($1)${2:;}$0</string>
 <key>name</key>
 <string>appendTo</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>apt</string>
 <key>uuid</key>
-<string>ea143714-9698-4592-9ee6-0b580f93b044</string>
+<string>0663c6c8-8b9a-495a-b569-02fcc3ddc4f3</string>
 </dict>
 </plist>

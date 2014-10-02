@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.mouseleave($1)${2:;}$0</string>
+<string>mouseleave($1)${2:;}$0</string>
 <key>name</key>
 <string>mouseleave</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>ml</string>
 <key>uuid</key>
-<string>fe7a9575-182b-42a7-95a9-4387b36a0f32</string>
+<string>874ea6d9-4033-4227-afcb-50d6ab3cfe9f</string>
 </dict>
 </plist>

@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.insertAfter($1)${2:;}$0</string>
+<string>insertAfter($1)${2:;}$0</string>
 <key>name</key>
 <string>insertAfter</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>ia</string>
 <key>uuid</key>
-<string>e0ef67e5-5331-4f0f-b749-9250dfc271e8</string>
+<string>cc3a1c0c-d127-4d88-bbcf-d8ae155b995c</string>
 </dict>
 </plist>

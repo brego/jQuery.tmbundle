@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.blur($1)${2:;}$0</string>
+<string>blur($1)${2:;}$0</string>
 <key>name</key>
 <string>blur</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>bl</string>
 <key>uuid</key>
-<string>4fdb562d-7aba-42ee-979a-f44fe04b6c84</string>
+<string>c3ba334e-b462-493b-b8ed-77334e3ead70</string>
 </dict>
 </plist>

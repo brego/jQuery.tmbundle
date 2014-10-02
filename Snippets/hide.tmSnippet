@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.hide($1)${2:;}$0</string>
+<string>hide($1)${2:;}$0</string>
 <key>name</key>
 <string>hide</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>h</string>
 <key>uuid</key>
-<string>e159be60-9901-4b88-8c6a-1f6813a1cdbe</string>
+<string>7b189d87-0050-4ca0-9309-3222e0d86ebe</string>
 </dict>
 </plist>

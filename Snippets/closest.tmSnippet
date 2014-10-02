@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.closest($1)${2:;}$0</string>
+<string>closest($1)${2:;}$0</string>
 <key>name</key>
 <string>closest</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>cl</string>
 <key>uuid</key>
-<string>303a2557-f0e2-4db9-b9b4-4f0fb0e8685b</string>
+<string>9b7b4a9c-ab47-4a4d-8006-0de254b3b432</string>
 </dict>
 </plist>

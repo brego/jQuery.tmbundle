@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.prevUntil($1)${2:;}$0</string>
+<string>prevUntil($1)${2:;}$0</string>
 <key>name</key>
 <string>prevUntil</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>pu</string>
 <key>uuid</key>
-<string>e91009fc-7552-4553-ae78-4d32019e92cc</string>
+<string>79e3dede-e6f9-4e2b-af15-c36a765549a2</string>
 </dict>
 </plist>

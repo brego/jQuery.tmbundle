@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.ajaxSuccess($1)${2:;}$0</string>
+<string>ajaxSuccess($1)${2:;}$0</string>
 <key>name</key>
 <string>ajaxSuccess</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>ajs</string>
 <key>uuid</key>
-<string>94536546-d1ad-4af3-84c9-71c3b202e627</string>
+<string>a4822920-ffcf-4ea1-96d5-b84e207c344c</string>
 </dict>
 </plist>

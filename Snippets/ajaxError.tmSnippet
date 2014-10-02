@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.ajaxError($1)${2:;}$0</string>
+<string>ajaxError($1)${2:;}$0</string>
 <key>name</key>
 <string>ajaxError</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>aje</string>
 <key>uuid</key>
-<string>3074926e-f0d1-4a85-a733-bf7320f72b9d</string>
+<string>5785be8e-ccbd-4d5e-af54-7f1f95119c1d</string>
 </dict>
 </plist>

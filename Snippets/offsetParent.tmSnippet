@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.offsetParent($1)${2:;}$0</string>
+<string>offsetParent($1)${2:;}$0</string>
 <key>name</key>
 <string>offsetParent</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>op</string>
 <key>uuid</key>
-<string>acb92b6b-b970-44da-bbe0-84f897adadee</string>
+<string>7975aa22-5572-46ea-9495-c5a2e1d5fa29</string>
 </dict>
 </plist>

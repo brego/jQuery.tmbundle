@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 <key>content</key>
-<string>.replaceWith($1)${2:;}$0</string>
+<string>replaceWith($1)${2:;}$0</string>
 <key>name</key>
 <string>replaceWith</string>
 <key>scope</key>
@@ -11,6 +11,6 @@
 <key>tabTrigger</key>
 <string>rw</string>
 <key>uuid</key>
-<string>eb28a7c7-f311-4787-8f75-e0b6d974ad2a</string>
+<string>528a9521-1c3f-4bf1-a516-eaa899f684e9</string>
 </dict>
 </plist>
